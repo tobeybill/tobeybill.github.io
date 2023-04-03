@@ -239,8 +239,3 @@ For (4), it is on the ML sentiment variables (positive and negative) and both re
 **4. Is there a difference in the sign and magnitude? Speculate on why or why not.**
 
 *There is an observable difference in sign and magnitude between correlations. For the short-term return, the correlation for both positive and negative values is positive. For the return on days 3-10, it is negative for one and positive for the other. Additionally, the magnitude of the positive sentiment correlation is greater in the short term, but magnitude of the negative sentiment is greater in both periods. This is most likely due to the fact that negative sentiment is reacted on more intensely after a report is filed.*
-
-
-```python
-
-```
