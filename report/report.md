@@ -1,3 +1,7 @@
+---
+layout: wide_default
+---
+
 # Assignment 5 Report
 #### Exploring potential relationships between S&P 500 firm 10K sentiment and returns post-filing
 
