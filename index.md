@@ -8,11 +8,11 @@ My name is Tobey and I'm currently a senior at Lehigh in the [Integrated Busines
 
 <!-- You can link to other websites, PDFs in this repo, and other pages in this repo -->
 
-_**[Natural language processing 10-Ks to identify risks](midterm_summary)**_
+_**[Comparing Firm 10-K Sentiment to Company Stock Returns](report/report.md)**_
 
-You can show off your midterm analysis by moving the report components and output into this file. Or...
+This project compares the positive and negative sentiments present in firm 10-Ks reported in the 2022 year with returns after the reports are filed. The sentiment measurements achieved are shown with returns seen over the 2 days following filing and then from day 3 through 10. A correlation measure is calculated and visualized in the form of a scatterplot
 
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="report/scatterplot.png?raw=true"/>
 
 ---
 
