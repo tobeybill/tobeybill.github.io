@@ -2,10 +2,9 @@ title: Tobey Bill # your name (or website title) here
 logo: "/images/Headshot.jpg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   
-  <br><br>
   <a href="https://www.linkedin.com/in/tobeybill">LinkedIn</a> 
   <br>
-  <a href="/pdf/TobeyBill_Resume" class="btn btn--info">Resume</a>  
+  <a href="/pdf/TobeyBill_Resume.pdf" class="btn btn--info">Resume</a>  
   <br>
   <a href="https://www.GitHub.com/tobeybill/">GitHub</a>  
   <br>
