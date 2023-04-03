@@ -1,14 +1,6 @@
 ## About Me
 
-What's up? hey\|you
-
-I am an awesome student at Lehigh, you should hire me!
-
-<!-- Upload your own photo and change the path -->
-
-<p style="text-align:center;">
-  <img class="img-circle" src="https://github.com/donbowen/donbowen.github.io/raw/master/images/logo.png" width="50%">
-</p>
+My name is Tobey and I'm currently a senior at Lehigh in the [Integrated Business and Engineering Honors Program](https://ibe.lehigh.edu/) pursuing majors in Finance and Industrial & Systems Engineering. 
 
 ---
 
@@ -38,8 +30,8 @@ _**[Eventual team project](https://donbowen.github.io/teamproject/)**_
 
 ---
 
-_**[Some personal project](/pdf/sample_presentation.pdf)**_
-
+_**[Internship at Bain & Company](https://www.bain.com)**_
+As an Associate Consultant Intern, I performed market sizing, historical analysis, and acquisition research for three private equity due diligences focusing on technology in the commercial real estate, auto dealership, and education industries. Throughout my time at Bain I used Excel and PowerPoint to complete data analysis and then present findings to company management. I will be returning to Bain full-time in September 2023 as an Associate Consultant.
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
