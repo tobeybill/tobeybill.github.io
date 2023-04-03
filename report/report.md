@@ -210,7 +210,7 @@ table
 
 #### Scatterplot figure
 *Note: figure created in exploration_ugly.ipynb and saved to the repo*
-![](output/scatterplot.png)
+![](scatterplot.png)
 
 #### Discussion
 
