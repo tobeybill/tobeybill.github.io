@@ -1,6 +1,6 @@
 ## About Me
 
-My name is Tobey and I'm currently a senior at Lehigh in the [Integrated Business and Engineering Honors Program](https://ibe.lehigh.edu/) pursuing majors in Finance and Industrial & Systems Engineering. 
+My name is Tobey and I'm currently a senior at Lehigh in the [Integrated Business and Engineering Honors Program](https://ibe.lehigh.edu/) pursuing majors in Finance and Industrial & Systems Engineering. I have a passion for entrepreneurship and the aspiration to apply that to the sustainability space.
 
 ---
 
@@ -16,38 +16,33 @@ This project compares the positive and negative sentiments present in firm 10-Ks
 
 ---
 
-_**[Regression Practice](Regression_practice)**_
+_**[Final team project]**_
 
-Or: The process that created this page can be used to show off your whole midterm analysis file, as is.
-
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+Here is where I will include information on my final project once it has been completed.
 
 ---
 
-_**[Eventual team project](https://donbowen.github.io/teamproject/)**_
+_**Internship at [Bain & Company](https://www.bain.com): Private Equity Group**_
 
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-
-_**[Internship at Bain & Company](https://www.bain.com)**_
-As an Associate Consultant Intern, I performed market sizing, historical analysis, and acquisition research for three private equity due diligences focusing on technology in the commercial real estate, auto dealership, and education industries. Throughout my time at Bain I used Excel and PowerPoint to complete data analysis and then present findings to company management. I will be returning to Bain full-time in September 2023 as an Associate Consultant.
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+As an Associate Consultant Intern, I performed market sizing, historical analysis, and acquisition research for three private equity due diligences focusing on technology in the commercial real estate, auto dealership, and education industries. Throughout my time at Bain I completed analysis and visualizations of company data and then presented findings to company management. I will be returning to Bain full-time in September 2023 as an Associate Consultant.
 
 ---
 
 ## Career Objectives
 
-Write what you want. 
-
-Sell yourself!
+After working for a time at Bain to gain an understanding of the business world, I plan on starting a venture in the environmental space. Entrepreneurship has always been a passion of mine and climate change/sustainability is the area I hope to focus my efforts.
 
 ---
 
 ## Hobbies
 
-Maybe include a little about these, especially if they are the kinds of things that work well in interviews.
+- Soccer
+- Running
+- Skiing
+- Tennis
+- Traveling to interesting places
+- Investing
+- Entrepreneurship
+- Collecting vinyl music
 
 ---
-<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
-<!-- Remove above link if you don't want to attibute -->
