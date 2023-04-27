@@ -1,6 +1,6 @@
 ## About Me
 
-My name is Tobey and I'm currently a senior at Lehigh in the [Integrated Business and Engineering Honors Program](https://ibe.lehigh.edu/) pursuing majors in Finance and Industrial & Systems Engineering. I have a passion for entrepreneurship and the aspiration to apply that to the sustainability space.
+My name is Tobey and I'm currently a senior at Lehigh in the **[Integrated Business and Engineering Honors Program](https://ibe.lehigh.edu/)** pursuing majors in Finance and Industrial & Systems Engineering. I have a passion for entrepreneurship and the aspiration to apply that to the sustainability space.
 
 ---
 
