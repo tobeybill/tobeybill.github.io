@@ -10,7 +10,7 @@ My name is Tobey and I'm currently a senior at Lehigh in the [Integrated Busines
 
 _**[Comparing Firm 10-K Sentiment to Company Stock Returns](report/report.md)**_
 
-This project compares the positive and negative sentiments present in firm 10-Ks reported in the 2022 year with returns after the reports are filed. The sentiment measurements achieved are shown with returns seen over the 2 days following filing and then from day 3 through 10. A correlation measure is calculated and visualized in the form of a scatterplot
+This project compares the positive and negative sentiments present in firm 10-Ks reported in the 2022 year with returns after the reports are filed. The sentiment measurements achieved are shown with returns seen over the 2 days following filing and then from day 3 through 10. A correlation measure is calculated and visualized in the form of a scatterplot.
 
 <img src="report/scatterplot.png?raw=true"/>
 
@@ -18,13 +18,13 @@ This project compares the positive and negative sentiments present in firm 10-Ks
 
 _**[CEO Treatment Impact on Shareholder Confidence](https://tobeybill.github.io/dreamteam/)**_
 
-This project analyzes data on CEO treatment and how it affects the shareholder confidence in the companies these executives lead. The treatment metrics focused on are 1) CEO compensation 2) forced CEO turnover. To measure shareholder confidence, we look at the company’s stock price performance in a given year and/or after a given turnover date. We also conducted a dismissal event study in order to possibly uncover any correlation with firm performance and CEO dismissal (unexpected or not).
+This project analyzes data on CEO treatment and how it affects the shareholder confidence in the companies these executives lead. The treatment metrics focused on are 1) CEO compensation and 2) forced CEO turnover. To measure shareholder confidence, we look at the company’s stock price performance in a given year and/or after a given turnover date. We also conduct a dismissal event study in order to uncover correlation between firm performance and CEO dismissal (unexpected or not).
 
 ---
 
 _**Internship at [Bain & Company](https://www.bain.com): Private Equity Group**_
 
-As an Associate Consultant Intern, I performed market sizing, historical analysis, and acquisition research for three private equity due diligences focusing on technology in the commercial real estate, auto dealership, and education industries. Throughout my time at Bain I completed analysis and visualizations of company data and then presented findings to company management. I will be returning to Bain full-time in September 2023 as an Associate Consultant.
+As an Associate Consultant Intern, I performed market sizing, historical analysis, and acquisition research for three private equity due diligences focusing on technology in various industries. Throughout my time at Bain, I completed analyses of company data and visualized findings in client deliverables. I will be returning to Bain full-time in October 2023 as an Associate Consultant.
 
 ---
 
