@@ -16,9 +16,9 @@ This project compares the positive and negative sentiments present in firm 10-Ks
 
 ---
 
-_**[Final team project]**_
+_**[CEO Treatment Impact on Shareholder Confidence](https://tobeybill.github.io/dreamteam/)**_
 
-Here is where I will include information on my final project once it has been completed.
+This project analyzes data on CEO treatment and how it affects the shareholder confidence in the companies these executives lead. The treatment metrics focused on are 1) CEO compensation 2) forced CEO turnover. To measure shareholder confidence, we look at the company’s stock price performance in a given year and/or after a given turnover date. We also conducted a dismissal event study in order to possibly uncover any correlation with firm performance and CEO dismissal (unexpected or not).
 
 ---
 
@@ -40,9 +40,5 @@ After working for a time at Bain to gain an understanding of the business world,
 - Running
 - Skiing
 - Tennis
-- Traveling to interesting places
-- Investing
-- Entrepreneurship
-- Collecting vinyl music
 
 ---
