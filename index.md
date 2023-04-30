@@ -16,9 +16,9 @@ This project compares the positive and negative sentiments present in firm 10-Ks
 
 ---
 
-_**[CEO Treatment Impact on Shareholder Confidence](https://tobeybill.github.io/dreamteam/)**_
+_**[Director Compensation Impact on Firm Value](https://tobeybill.github.io/dreamteam/)**_
 
-This project analyzes data on CEO treatment and how it affects the shareholder confidence in the companies these executives lead. The treatment metrics focused on are 1) CEO compensation and 2) forced CEO turnover. To measure shareholder confidence, we look at the company’s stock price performance in a given year and/or after a given turnover date. We also conduct a dismissal event study in order to uncover correlation between firm performance and CEO dismissal (unexpected or not).
+This project analyzes data on director compensation and how it impacts the firm values of the companies these directors represent. We utilize a training dataset to determine a predictor for director compensation, then compare predicted values with actuals for certain test years to determine if the individuals were overpaid or underpaid during that time. This is then compared to firm value, represented by the firm's market-to-book ratio, to explore potential correlation.
 
 ---
 
