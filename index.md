@@ -16,9 +16,9 @@ This project compares the positive and negative sentiments present in firm 10-Ks
 
 ---
 
-_**[Director Compensation Impact on Firm Value](https://tobeybill.github.io/dreamteam/)**_
+_**[CEO and Director Compensation Impact on Firm Value](https://tobeybill.github.io/TISATAFL/)**_
 
-This project analyzes data on director compensation and how it impacts the firm values of the companies these directors represent. We utilize a training dataset to determine a predictor for director compensation, then compare predicted values with actuals for certain test years to determine if the individuals were overpaid or underpaid during that time. This is then compared to firm value, represented by the firm's market-to-book ratio, to explore potential correlation.
+This project analyzes data on CEO and director compensation along with how it impacts the firm values of the companies these executives represent. We utilize a training dataset to determine a predictor for director compensation, then compare predicted values with actuals for certain test years to determine if the individuals were overpaid or underpaid during that time. This is then compared to firm value in those years, represented by a regression-weight-based calculation of a firm value measure, to explore potential correlation.
 
 ---
 
